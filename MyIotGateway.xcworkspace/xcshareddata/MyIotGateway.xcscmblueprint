@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "73DD31A1959FB57EB12A243338A0AFC4C4F8E3CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "73DD31A1959FB57EB12A243338A0AFC4C4F8E3CE" : 0,
+    "9213421266FD42BB523C1C88395B21C77300B0A3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F1D0E89A-C8D5-466E-A524-862149DE4DA3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "73DD31A1959FB57EB12A243338A0AFC4C4F8E3CE" : "AcnGatewayiOS\/",
+    "9213421266FD42BB523C1C88395B21C77300B0A3" : "kronos-ios-sdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyIotGateway",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyIotGateway.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/arrows3\/myiotgateway.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73DD31A1959FB57EB12A243338A0AFC4C4F8E3CE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/arrows3\/kronos-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9213421266FD42BB523C1C88395B21C77300B0A3"
+    }
+  ]
+}
